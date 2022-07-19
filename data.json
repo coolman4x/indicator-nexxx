@@ -1,6 +1,6 @@
 {
   "version":"1.0.1",
   "link":"https://github.com/coolman4x/indicator-nexxx/releases/download/release/Setup.msi",
-  "server_link":".",
+  "server_link":"https://example.com",
   "message":"Please update  your application version."
   }
